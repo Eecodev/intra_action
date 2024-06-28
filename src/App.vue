@@ -1,7 +1,11 @@
 <template>
-  <div>
+  <div class="mb-4">
     <Header />
+  </div>
+  <div>
     <Main />
+  </div>
+  <div class="mt-4">
     <Footer />
   </div>
 </template>
